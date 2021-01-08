@@ -16,7 +16,7 @@ if (x < 0 && y < 0) {
 }
 
 // Changes the variable y to a positive if it's negative.
-if (y < 0 ) {
+if (y < 0) {
   y = Math.abs(y)
   x = -Math.abs(x)
 }
